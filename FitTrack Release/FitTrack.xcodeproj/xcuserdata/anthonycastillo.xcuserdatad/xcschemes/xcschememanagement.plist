@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FitTrack Watch App 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>FitTrack Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FitTrack Watch AppTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>FitTrack.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AD5030482C46F0F600823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD5030582C46F0F700823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD5030622C46F0F700823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD50306E2C46F0F700823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD5030802C46F0F800823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD50308A2C46F0F800823C18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
