@@ -43,6 +43,15 @@ Fit-Track is a **workout application** for **watchOS 11**, built using Swift and
 3. Begin your workout. The app will automatically track your repetitions and heart rate.
 4. After completing the workout, view a summary of your session, including total reps and calories burned.
 
+
+![image](https://github.com/user-attachments/assets/dc6ac60c-cbb8-4b34-b1e4-4aa78ea4eb31)
+   
+   Ensure Health Access is granted for accurate calculations.
+
+![image](https://github.com/user-attachments/assets/78c0a439-a740-4408-977c-a9acece68f22)
+
+![image](https://github.com/user-attachments/assets/4231c7b7-f375-47b6-adee-bfeb14856f2e)
+
 ## Contributing
 
 Feel free to open issues and submit pull requests for new features, bug fixes, or improvements. Contributions are welcome!
